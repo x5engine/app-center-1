@@ -3,14 +3,10 @@ import { graphql, navigate } from 'gatsby'
 import {
   ListItem,
   ListItemText,
-  ListItemSecondaryAction,
   ListItemAvatar,
-  Avatar,
-  Typography,
-  IconButton,
+  Typography
 } from '@material-ui/core'
 import AppIcon from '@material-ui/icons/Apps'
-import GetAppIcon from '@material-ui/icons/Launch'
 import Img from 'gatsby-image'
 import { styles } from '../components/layout'
 

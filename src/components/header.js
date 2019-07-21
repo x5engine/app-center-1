@@ -1,8 +1,5 @@
-import { Link } from 'gatsby'
 import PropTypes from 'prop-types'
 import React from 'react'
-import Search from './search'
-import { Container, Typography, Grid } from '@material-ui/core'
 import PrimarySearchAppBar from './AppBar'
 import { withStyles } from '@material-ui/styles'
 
